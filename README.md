@@ -28,9 +28,9 @@
 
 ## Opcje rozwoju 
 Projekt został zrealizowany lecz w ramach ulepszenia w przyszłości można wprowadzić: 
--Obliczanie odchylenia standardowego
--Obliczanie błędu standardowego na wybranym poziomie ufności 
--Ulepszenie formy wizualnej poprzez nowocześniejszą grafikę
+- Obliczanie odchylenia standardowego
+- Obliczanie błędu standardowego na wybranym poziomie ufności 
+- Ulepszenie formy wizualnej poprzez nowocześniejszą grafikę
 
 
 ## Kontakt
