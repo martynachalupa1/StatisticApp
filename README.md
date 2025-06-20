@@ -3,11 +3,11 @@ Nasza aplikacja statystyczna służy do analizy danych. Użytkownik wprowadza da
 oraz wartość minimalną).Dodatkowo tworzy również wykres dla tych danych.
 
 Spis treści
-Główne założenia aplikacji
-Użyte technologie 
-Screenshots
-Status projektu
-Opcje rozwoju aplikacji
+Główne założenia aplikacji,
+Użyte technologie,
+Screenshots,
+Status projektu,
+Opcje rozwoju aplikacji,
 Kontakt 
 
 Główne założenia aplikacji 
@@ -28,5 +28,5 @@ Opcje rozwoju aplikacji
 W celu ulepszenia oferty naszej aplikacji można dodać jeszcze możliwość liczenia odchylenia standardowego, błędu standardowego dla wybranego poziomu istotności.
 
 Kontakt
-m.chalupa.016@studms.ug.edu.pl
+m.chalupa.016@studms.ug.edu.pl,
 m.kowalewska.045@studms.ug.edu.pl
